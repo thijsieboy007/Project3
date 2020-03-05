@@ -37,7 +37,7 @@ public class GameManager : MonoBehaviour
             Debug.Log("fout");
         }
         
-        //NextQuestion();
+        NextQuestion();
     }
     void NextQuestion()
     {
